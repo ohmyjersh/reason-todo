@@ -3,6 +3,8 @@
 *.cmt
 a.out
 _build
+build
+lib
 *.install
 pkg/META
 .DS_Store
